@@ -7,7 +7,7 @@ include 'inc/function.php'
     <head>
         <title> 777 Slot Machine </title>
         <style>
-            @import url("/cst336/lab2/777/css/styles.css");
+            @import url("/cst336/lab2/777/cst338-sp18-lab2/css/styles.css");
         </style>
     </head>
     <body>
